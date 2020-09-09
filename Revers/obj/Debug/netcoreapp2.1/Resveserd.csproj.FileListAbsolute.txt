@@ -1,0 +1,11 @@
+C:\Users\Микола\Desktop\C#\Resveserd\Resveserd\bin\Debug\netcoreapp2.1\Resveserd.deps.json
+C:\Users\Микола\Desktop\C#\Resveserd\Resveserd\bin\Debug\netcoreapp2.1\Resveserd.runtimeconfig.json
+C:\Users\Микола\Desktop\C#\Resveserd\Resveserd\bin\Debug\netcoreapp2.1\Resveserd.runtimeconfig.dev.json
+C:\Users\Микола\Desktop\C#\Resveserd\Resveserd\bin\Debug\netcoreapp2.1\Resveserd.dll
+C:\Users\Микола\Desktop\C#\Resveserd\Resveserd\bin\Debug\netcoreapp2.1\Resveserd.pdb
+C:\Users\Микола\Desktop\C#\Resveserd\Resveserd\obj\Debug\netcoreapp2.1\Resveserd.csproj.CoreCompileInputs.cache
+C:\Users\Микола\Desktop\C#\Resveserd\Resveserd\obj\Debug\netcoreapp2.1\Resveserd.AssemblyInfoInputs.cache
+C:\Users\Микола\Desktop\C#\Resveserd\Resveserd\obj\Debug\netcoreapp2.1\Resveserd.AssemblyInfo.cs
+C:\Users\Микола\Desktop\C#\Resveserd\Resveserd\obj\Debug\netcoreapp2.1\Resveserd.dll
+C:\Users\Микола\Desktop\C#\Resveserd\Resveserd\obj\Debug\netcoreapp2.1\Resveserd.pdb
+C:\Users\Микола\Desktop\C#\Resveserd\Resveserd\obj\Debug\netcoreapp2.1\Resveserd.csprojAssemblyReference.cache
